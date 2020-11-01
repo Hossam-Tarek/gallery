@@ -1,6 +1,9 @@
 # Gallery 
 Is a web gallery for showing your photos in an elegant way.
 
+![Home page image](images/home.png)
+![Slider image](images/slider.png)
+
 ## Contributing
 We encourage you to contribute to Memory Game. Please check out the [CONTRIBUTING.md](./CONTRIBUTING.md).
 
